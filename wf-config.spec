@@ -14,7 +14,7 @@ BuildRequires:  pkgconfig(glm)
 #BuildRequires:  cmake(doctest)
 BuildRequires:  pkgconfig(libevdev)
 BuildRequires:  pkgconfig(libxml-2.0)
-BuildRequires:  pkgconfig(libxml++-2.6)
+BuildRequires:  pkgconfig(wayland-protocols)
  
 %description
 A library for managing configuration files, written for wayfire
