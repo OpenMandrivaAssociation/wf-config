@@ -9,7 +9,7 @@ Source0:        https://github.com/WayfireWM/wf-config/archive/v%{version}/%{nam
  
 BuildRequires:  cmake
 BuildRequires:  meson >= 0.47
-BuildRequires:  cmake(glm)
+BuildRequires:  pkgconfig(glm)
 # Needed only for test
 #BuildRequires:  cmake(doctest)
 BuildRequires:  pkgconfig(libevdev)
