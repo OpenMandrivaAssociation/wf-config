@@ -1,6 +1,6 @@
 Name:           wf-config
 Version:        0.7.1
-Release:        1
+Release:        2
 Summary:        Library for managing configuration files, written for wayfire
 Group:          Wayfire
 License:        MIT
